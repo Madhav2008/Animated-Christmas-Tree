@@ -28,9 +28,11 @@ body {
     transform-style: preserve-3d;
 }
 
-.tree div.top span {position: absolute;
+.tree div.top span {
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    transform-style: preserve-3d;}
+    transform-style: preserve-3d;
+}
