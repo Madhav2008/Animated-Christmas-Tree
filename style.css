@@ -43,4 +43,4 @@ body {
     transform: rotateY(calc(90deg * var(--i))) translateZ(150px) rotateX(30deg);
 }
 
-@keyframes animate
+@keyframes animate{}
