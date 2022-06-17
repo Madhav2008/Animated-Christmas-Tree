@@ -41,4 +41,6 @@ body {
     transform-origin: bottom;
     border-bottom: 10px solid #00000019;
     transform: rotateY(calc(90deg * var(--i))) translateZ(150px) rotateX(30deg);
-}@keyframes
+}
+
+@keyframes
