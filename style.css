@@ -53,7 +53,7 @@ body {
     height: 100%;
     background: linear-gradient(90deg, #bb4622, #df7214);
     transform-origin: bottom;
-    border-bottom: 10px solid #00000019;
+    border-bottom: 10px solid #00000055;
     transform: rotateY(calc(90deg * var(--i))) translateZ(30px);
 }
 
