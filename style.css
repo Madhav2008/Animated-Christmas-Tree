@@ -12,4 +12,4 @@ body {
     background: #e8ffe8;
 }
 
-.tree {}
+.tree {position: relative;}
