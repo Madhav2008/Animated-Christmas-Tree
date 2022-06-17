@@ -65,7 +65,7 @@ body {
     height: 300px;
     background: #000;
     transform-style: preserve-3d;
-    transform: rotateX(90deg) translateZ(400px);
+    transform: rotateX(90deg) translateZ(500px);
 }
 
 @keyframes animate {
