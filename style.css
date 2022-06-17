@@ -17,7 +17,8 @@ body {
     width: 300px;
     height: 300px;
     transform-style: preserve-3d;
-    transform: rotateX(-20deg) rotateY(30deg);animation: ;
+    transform: rotateX(-20deg) rotateY(30deg);
+    animation: ;
 }
 
 .tree div {
