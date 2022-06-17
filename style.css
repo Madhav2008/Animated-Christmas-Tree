@@ -44,5 +44,5 @@ body {
 }
 
 @keyframes animate {
-    0% {}
+    0% {transform: rotateY(calc(90deg * var(--i))) translateZ(150px) rotateX(30deg);}
 }
