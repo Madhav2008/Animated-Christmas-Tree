@@ -52,7 +52,6 @@ body {
     width: 60px;
     height: 100px;
     background: linear-gradient(90deg, #bb4622, #df7214);
-    /* clip-path: polygon(50% 0%, 0% 100%, 100% 100%); */
     transform-origin: bottom;
     border-bottom: 10px solid #00000019;
     transform: rotateY(calc(90deg * var(--i))) translateZ(173px);
