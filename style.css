@@ -49,6 +49,6 @@ body {
     }
 
     100% {
-        transform: rotateX(-20deg) rotateY(360deg);
+        transform: rotateX(-20deg) rotateY(0deg);
     }
 }
