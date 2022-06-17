@@ -15,5 +15,6 @@ body {
 .tree {
     position: relative;
     width: 300px;
-    height: 300px;transform-style: preserve-3d;
+    height: 300px;
+    transform-style: preserve-3d;
 }
