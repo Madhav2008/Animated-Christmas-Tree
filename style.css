@@ -36,5 +36,6 @@ body {
     height: 100%;
     background: linear-gradient(90deg, #69c069, #77dd77);
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
-    transform-origin: bottom;border-bottom: 10px;
+    transform-origin: bottom;
+    border-bottom: 10px;
 }
