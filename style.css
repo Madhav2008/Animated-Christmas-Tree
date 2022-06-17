@@ -23,7 +23,7 @@ body {
 }
 
 .tree::before {
-    content: '';
+    content: '⭐';
 }
 
 .tree div {
