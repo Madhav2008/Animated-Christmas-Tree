@@ -39,5 +39,5 @@ body {
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     transform-origin: bottom;
     border-bottom: 10px solid #00000019;
-    transform: rotateY(calc(90deg * var(--i))) translateX(160px) rotateX(10deg);
+    transform: rotateY(calc(90deg * var(--i))) translateZ(160px) rotateX(10deg);
 }
