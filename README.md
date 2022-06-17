@@ -1,4 +1,4 @@
-# Animated Chritmas
+# Animated Christmas
 
 
 
