@@ -66,7 +66,7 @@ body {
     background: #0002;
     transform-style: preserve-3d;
     transform: rotateX(90deg) translateZ(-500px);
-    filter: ;
+    filter: blur();
 }
 
 @keyframes animate {
