@@ -26,8 +26,8 @@ body {
     content: '⭐';
     position: absolute;
     top: -120px;
-    font-size: 4em;
     left: 50%;
+    font-size: 4em;
 }
 
 .tree div {
