@@ -45,7 +45,7 @@ body {
     transform: rotateY(calc(90deg * var(--i))) rotateX(30deg) translateZ(173px);
 }
 
-.tree div.top span {
+.tree div.bottom span {
     position: absolute;
     top: 0;
     left: 0;
