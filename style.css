@@ -24,7 +24,7 @@ body {
 
 .tree::before {
     content: '⭐';
-    position: absolute;
+    position: absolute;font-size: 4em;
 }
 
 .tree div {
