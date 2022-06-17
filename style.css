@@ -57,11 +57,13 @@ body {
     transform: rotateY(calc(90deg * var(--i))) translateZ(30px);
 }
 
-.shadow {position: absolute;
+.shadow {
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;}
+    height: 100%;
+}
 
 @keyframes animate {
     0% {
