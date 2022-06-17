@@ -50,7 +50,7 @@ body {
     top: -40px;
     left: calc(50% - 30px);
     width: 60px;
-    height: 100px;
+    height: 100%;
     background: linear-gradient(90deg, #bb4622, #df7214);
     transform-origin: bottom;
     border-bottom: 10px solid #00000019;
