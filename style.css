@@ -22,7 +22,9 @@ body {
     animation: animate 6s linear infinite;
 }
 
-.tree::before {content: ;}
+.tree::before {
+    content: ;
+}
 
 .tree div {
     position: absolute;
