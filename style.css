@@ -45,6 +45,6 @@ body {
 
 @keyframes animate {
     0% {
-        
+        transform: rotateX(-20deg) rotateY(30deg);
     }
 }
