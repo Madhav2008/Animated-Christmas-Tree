@@ -40,7 +40,7 @@ body {
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     transform-origin: bottom;
     border-bottom: 10px solid #00000019;
-    transform: rotateY(calc(90deg * var(--i))) translateZ(173px);
+    transform: rotateY(calc(90deg * var(--i)))rotateX(30deg) translateZ(173px;
 }
 
 @keyframes animate {
