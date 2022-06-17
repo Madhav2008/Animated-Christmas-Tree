@@ -18,7 +18,7 @@ body {
     height: 300px;
     transform-style: preserve-3d;
     transform: rotateX(-20deg) rotateY(30deg);
-    animation: animate 6s;
+    animation: animate 6s linear infinite;
 }
 
 .tree div {
