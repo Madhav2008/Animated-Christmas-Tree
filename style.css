@@ -48,7 +48,7 @@ body {
 .tree div.bottom span {
     position: absolute;
     top: 0;
-    left: calc(50% -30px);
+    left: calc(50% - 30px);
     width: 60px;
     height: 100px;
     background: linear-gradient(90deg, #bb4622, #df7214);
